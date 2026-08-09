@@ -1,0 +1,3 @@
+# Reflection
+
+Completing this activity helped me understand how to navigate a Linux environment, manage users, and use Git and GitHub to maintain a professional portfolio. I learned that documentation is just as important as the technical work itself...
