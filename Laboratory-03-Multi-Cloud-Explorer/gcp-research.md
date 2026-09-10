@@ -1,4 +1,4 @@
-cat > Laboratory-03-Multi-Cloud-Explorer/gcp-research.md << 'EOF'
+
 # GCP Research — Google Cloud Platform
 
 ## Brief Overview
@@ -38,5 +38,3 @@ The **Google Cloud Console** is the web-based management dashboard. Other tools 
 - Data-heavy startups and research organizations needing high-performance computing.
 
 ---
-**Sources to cite:** Google Cloud official documentation (https://cloud.google.com/docs), Google Cloud Locations page.
-EOF
