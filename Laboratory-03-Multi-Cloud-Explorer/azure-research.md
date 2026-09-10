@@ -1,4 +1,4 @@
-cat > Laboratory-03-Multi-Cloud-Explorer/azure-research.md << 'EOF'
+
 # Azure Research — Microsoft Azure
 
 ## Brief Overview
@@ -39,4 +39,3 @@ The **Azure Portal** is the primary web-based console. Other management tools in
 
 ---
 **Sources to cite:** Microsoft Azure official documentation (https://learn.microsoft.com/azure), Azure Global Infrastructure page.
-EOF
