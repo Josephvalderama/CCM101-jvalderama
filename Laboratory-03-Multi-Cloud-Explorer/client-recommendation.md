@@ -1,4 +1,4 @@
-cat > Laboratory-03-Multi-Cloud-Explorer/client-recommendations.md << 'EOF'
+
 # Client Recommendations
 
 ## Checkpoint 4 — Cloud Platform Recommendation Challenge
@@ -63,4 +63,4 @@ AWS is well suited to global e-commerce because of its extensive global Region/A
 | AI / Machine Learning | Google Cloud Platform | Industry-leading AI/ML tooling (Vertex AI, TPUs) and strong data analytics via BigQuery. |
 | Kubernetes Deployment | Google Cloud Platform | Google created Kubernetes; GKE is considered the most mature managed Kubernetes offering. |
 | Global Web Application | AWS | Largest global Region/AZ footprint plus mature auto-scaling and CDN services for worldwide low-latency access. |
-EOF
+
