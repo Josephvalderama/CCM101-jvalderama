@@ -1,4 +1,4 @@
-cat > Laboratory-03-Multi-Cloud-Explorer/aws-research.md << 'EOF'
+
 # AWS Research — Amazon Web Services
 
 ## Brief Overview
@@ -39,4 +39,3 @@ The **AWS Management Console** is the web-based dashboard for provisioning and m
 
 ---
 **Sources to cite:** AWS official documentation (https://docs.aws.amazon.com), AWS Global Infrastructure page.
-EOF
