@@ -1,4 +1,4 @@
-cat > Laboratory-03-Multi-Cloud-Explorer/cloud-platform-comparison.md << 'EOF'
+
 # Cloud Platform Comparison
 
 ## Checkpoint 3 — Comparison Table
@@ -38,5 +38,5 @@ I would cboose  broad general-purpose flexibility (AWS)
 | Identity Management | AWS IAM | Microsoft Entra ID | Cloud IAM |
 | SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
 | Kubernetes | Amazon EKS (Elastic Kubernetes Service) | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
-EOF
+
 
