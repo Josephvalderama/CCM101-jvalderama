@@ -1,4 +1,4 @@
-cat > Laboratory-03-Multi-Cloud-Explorer/README.md << 'EOF'
+
 # Laboratory Activity 3 — Multi-Cloud Explorer
 
 ## Mission Overview
